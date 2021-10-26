@@ -4,6 +4,7 @@
 - :open_book: I'm studying Technologist in System Analysis and Development at Estácio de Sá University
 - :woman_student: My graduation estimate date: December 2023
 - :woman_technologist: I'm currently studying Web Development at [Rocketseat](https://github.com/Rocketseat), focused on the main frontend technologies
+- :pencil: See my resume by <a  target="blank" href="https://www.canva.com/design/DAEtY5kyX-Y/AA65D9JhvPVkOnzGNOMkkQ/view?utm_content=DAEtY5kyX-Y&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">clicking here</a>
 
 ## Languages and Tools:
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
