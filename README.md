@@ -7,7 +7,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizabchagas/)](https://www.linkedin.com/in/luizabchagas/)
 <br>
-[![Rocketseat](https://img.shields.io/badge/luizabchagas-Rocketseat-blueviolet)](https://app.rocketseat.com.br/me/luiza-bozko-chagas-09991)
+[![Rocketseat](https://img.shields.io/badge/luizabchagas-Rocketseat-blueviolet?style=flat&labelColor=0D0D0D)](https://app.rocketseat.com.br/me/luiza-bozko-chagas-09991)
 
 <!--
 **luizabchagas/luizabchagas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
