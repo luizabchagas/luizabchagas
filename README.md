@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Luiza and it's nice to have you around! 👋
+
+- :mortar_board: I have Law bachelor's degree (2016) and started professional transition to web development in september 2021
+- :woman_technologist: So... I'm currently studying Web Development
+- :open_book: I'm studying Technologist in System Analysis and Development at Estácio de Sá University
+- :woman_student: My graduation estimate date: December 2023.
 
 <!--
 **luizabchagas/luizabchagas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
