@@ -3,7 +3,7 @@
 - :mortar_board: I have Law bachelor's degree (2016) and started professional transition to web development in september 2021
 - :open_book: I'm studying Technologist in System Analysis and Development at Estácio de Sá University
 - :woman_student: My graduation estimate date: December 2023
-- :woman_technologist: I'm currently studying Web Development at [Rocketseat](https://github.com/Rocketseat)
+- :woman_technologist: I'm currently studying Web Development at [Rocketseat](https://github.com/Rocketseat), focused on the main frontend technologies
 
 ## Languages and Tools:
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
