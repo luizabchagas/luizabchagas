@@ -1,4 +1,4 @@
-### Hi there, I'm Luiza and it's nice to have you around! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+# Hi there, I'm Luiza and it's nice to have you around! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
 - :mortar_board: I have Law bachelor's degree (2016) and started professional transition to web development in september 2021
 - :open_book: I'm studying Technologist in System Analysis and Development at Estácio de Sá University
@@ -7,8 +7,7 @@
 
 ## Social Links
 
-<social-link network="linkedin" href="https://www.linkedin.com/in/luizabchagas/" height="15px" color="grey" target="_blank"></social-link>
-<linkedin-link href="https://www.linkedin.com/in/luizabchagas/" height="15px" color="grey"></linkedin-link>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizabchagas/)](https://www.linkedin.com/in/luizabchagas/)
 
 <!--
 **luizabchagas/luizabchagas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
