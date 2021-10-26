@@ -6,7 +6,7 @@
 - :woman_technologist: I'm currently studying Web Development at [Rocketseat](https://github.com/Rocketseat)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0D0D0D?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizabchagas/)](https://www.linkedin.com/in/luizabchagas/) 
-<br>|
+<br>
 [![Rocketseat](https://img.shields.io/badge/luizabchagas-Rocketseat-blueviolet?style=flat&labelColor=0D0D0D)](https://app.rocketseat.com.br/me/luiza-bozko-chagas-09991)
 
 <!--
