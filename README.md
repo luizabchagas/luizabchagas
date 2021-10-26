@@ -5,7 +5,10 @@
 - :woman_student: My graduation estimate date: December 2023
 - :woman_technologist: I'm currently studying Web Development at [Rocketseat](https://github.com/Rocketseat)
 
-[Linkedin](https://www.linkedin.com/in/luizabchagas/)
+## Social Links
+
+<social-link network="linkedin" href="https://www.linkedin.com/in/luizabchagas/" height="15px" color="grey" target="_blank"></social-link>
+<linkedin-link href="https://www.linkedin.com/in/luizabchagas/" height="15px" color="grey"></linkedin-link>
 
 <!--
 **luizabchagas/luizabchagas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
