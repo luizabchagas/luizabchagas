@@ -5,6 +5,7 @@
 - :woman_student: My graduation estimate date: December 2023
 - :woman_technologist: I'm currently studying Web Development at [Rocketseat](https://github.com/Rocketseat)
 
+[![Rocketseat](https://img.shields.io/badge/luizabchagas-Rocketseat-blueviolet)](https://app.rocketseat.com.br/me/luiza-bozko-chagas-09991)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizabchagas/)](https://www.linkedin.com/in/luizabchagas/)
 
 <!--
