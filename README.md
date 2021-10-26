@@ -12,8 +12,10 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/> </a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="35" height="35"/> </a>
 
-## Social Links:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0D0D0D?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizabchagas/)](https://www.linkedin.com/in/luizabchagas/) 
+## Connect with me:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0D0D0D?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luizabchagas/) 
+<br>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-0D0D0D?style=flat-square&logo=Gmail&logoColor=white)](mailto:luizachagas92@gmail.com) 
 <br>
 [![Rocketseat](https://img.shields.io/badge/luizabchagas-Rocketseat-blueviolet?style=flat&labelColor=0D0D0D)](https://app.rocketseat.com.br/me/luiza-bozko-chagas-09991)
 
