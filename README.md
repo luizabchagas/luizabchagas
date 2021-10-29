@@ -1,4 +1,4 @@
-# Hi there, I'm Luiza and it's nice to have you around! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" style="text-align: center">
+# Hi there, I'm Luiza and it's nice to have you around! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" align="center">
 
 - :mortar_board: I have Law bachelor's degree (2016) and started professional transition to web development in september 2021
 - :open_book: I'm studying Technologist in System Analysis and Development at Estácio de Sá University
@@ -7,9 +7,9 @@
 - :pencil: See my resume: <a  href="https://www.canva.com/design/DAEt7OGmRF0/yjuM6UwsRsUcbAKjnNYmug/view?utm_content=DAEt7OGmRF0&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" target="_blank">English</a> | <a  href="https://www.canva.com/design/DAEtY5kyX-Y/AA65D9JhvPVkOnzGNOMkkQ/view?utm_content=DAEtY5kyX-Y&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" target="_blank">Portuguese</a>
 - :thought_balloon: Tips and suggestions are always welcome, feel free to contact me!
 
-## Languages and Tools:
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img align="center" alt="HTML5-icon" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="center" alt="CSS3-icon" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"> </a>
+## Currently learning:
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img alt="HTML5-icon" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img alt="CSS3-icon" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> </a>	
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/> </a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="35" height="35"/> </a>
