@@ -7,7 +7,7 @@
 - :woman_technologist: I'm currently studying Web Development at [Rocketseat](https://github.com/Rocketseat), focused on the main frontend technologies
 - :pencil: See my resume: <a  href="https://www.canva.com/design/DAEt7OGmRF0/yjuM6UwsRsUcbAKjnNYmug/view?utm_content=DAEt7OGmRF0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">English</a> | <a  href="https://www.canva.com/design/DAEtY5kyX-Y/AA65D9JhvPVkOnzGNOMkkQ/view?utm_content=DAEtY5kyX-Y&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">Portuguese</a>
 - :thought_balloon: Tips and suggestions are always welcome, feel free to contact me!
-
+ 
 ## Currently learning:
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img alt="HTML5-icon" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img alt="CSS3-icon" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"> </a>
