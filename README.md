@@ -5,7 +5,7 @@
 - :open_book: I'm studying Technologist in System Analysis and Development at Estácio de Sá University
 - :woman_student: My graduation estimate date: December 2023   
 - :woman_technologist: I'm currently studying Web Development at [Rocketseat](https://github.com/Rocketseat) and [JStack](https://jstack.com.br), focused on the main frontend technologies (HTML, CSS, JavaScript, React)
-- :pencil: See my resume: <a  href="https://www.canva.com/design/DAEt7OGmRF0/yjuM6UwsRsUcbAKjnNYmug/view?utm_content=DAEt7OGmRF0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">English</a> | <a  href="https://www.canva.com/design/DAEtY5kyX-Y/AA65D9JhvPVkOnzGNOMkkQ/view?utm_content=DAEtY5kyX-Y&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">Portuguese</a>
+- :pencil: See my resume <a  href="[https://www.canva.com/design/DAEt7OGmRF0/yjuM6UwsRsUcbAKjnNYmug/view?utm_content=DAEt7OGmRF0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://docs.google.com/document/d/17B4pHpNWkhSe2mjVJvu6S2kIkSsRU-Sz/edit?usp=share_link&ouid=111641368003270006281&rtpof=true&sd=true)" target="_blank">here</a>
 - :thought_balloon: Tips and suggestions are always welcome, feel free to contact me!
  
 ## Currently learning:
