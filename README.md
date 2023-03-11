@@ -1,10 +1,9 @@
 <h1 align="center">Hi there, I'm Luiza and it's nice to have you around! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>   
-
-- :mortar_board: I have Law bachelor's degree (2016) and started professional transition to web development in 2021 
+ 
 - :briefcase: I work as Full Stack Developer Intern at [IBM](https://www.linkedin.com/company/ibm/)
 - :open_book: I'm studying Technologist in System Analysis and Development at Estácio de Sá University
-- :woman_student: My graduation estimate date: December 2023   
-- :woman_technologist: I'm currently studying Web Development at [Rocketseat](https://github.com/Rocketseat) and [JStack](https://jstack.com.br), focused on the main frontend technologies (HTML, CSS, JavaScript, React)
+- :woman_student: My graduation estimate date is December 2023   
+- :woman_technologist: I have experience in developing, testing and maintaining a web application using AngularJS, Java, mySQL, unit tests using Karma, Jasmine, Unit and Mockito, among a multidisciplinary squad that uses agile methodology Scrum. I also having beginner knowledge in ReactJS, React Native, Node.js and Spring Boot.
 - :pencil: See my resume [here](https://docs.google.com/document/d/17B4pHpNWkhSe2mjVJvu6S2kIkSsRU-Sz/edit?usp=share_link&ouid=111641368003270006281&rtpof=true&sd=true)
 - :thought_balloon: Tips and suggestions are always welcome, feel free to contact me!
  
