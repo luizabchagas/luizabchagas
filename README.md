@@ -27,7 +27,7 @@
 
 ## Tools:
 <a href="https://www.jetbrains.com/pt-br/idea/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ" width="35" height="35"/></a>
-<a href="https://code.visualstudio.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="35" height="35"/></a>
+<a href="https://code.visualstudio.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="35" height="35"/></a> 
 <a href="https://about.gitlab.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="35" height="35"/></a>
 
 ## Connect with me:
