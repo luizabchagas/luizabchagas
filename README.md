@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Luiza and it's nice to have you around! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>   
+<h1 align="center">Hi there, I'm Luiza and it's nice to have you around! <img src="https://tenor.com/pt-BR/view/hi-gif-23520343" width="30px"></h1>   
  
 - :briefcase: I work as Full Stack Developer Intern at [IBM](https://www.linkedin.com/company/ibm/)
 - :open_book: I'm studying Technologist in System Analysis and Development at Estácio de Sá University
