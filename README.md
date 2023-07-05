@@ -1,9 +1,18 @@
 <h1 align="center">Hi there, I'm Luiza and it's nice to have you around! <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" width="30px"></h1>   
  
-- :briefcase: I work as Full Stack Developer Intern at [IBM](https://www.linkedin.com/company/ibm/)
+- :briefcase: I work as Full Stack Developer Intern at [PariPassu](https://www.linkedin.com/company/paripassubr)
 - :open_book: I'm studying Technologist in System Analysis and Development at Estácio de Sá University
 - :woman_student: My graduation estimate date is December 2023   
-- :woman_technologist: I have experience in developing, testing and maintaining a web application using AngularJS, Java, mySQL, unit tests using Karma, Jasmine, JUnit and Mockito, among a multidisciplinary squad that uses agile methodology Scrum. I also having beginner knowledge in ReactJS, React Native, Node.js and Spring Boot.
+- :woman_technologist: I have experience and/or knowledge in:
+
+• Front-end: HTML, CSS, JavaScript, TypeScript, AngularJS, ReactJS, React Native, Next.Js, Bootstrap, Material UI, Figma;
+• Back-end: Node.js, Java, Spring Boot, jOOQ, WebLogic;
+• Database: SQL, mySQL, PostgreSQL, MongoDB;
+• Unit Testing: Karma, Jest, Jasmine, Mockito, JUnit;
+• Cloud: AWS;
+• CI/CD: Jenkins, Azure DevOps;
+• Agile Methodologies: Scrum, Kanban
+
 - :pencil: See my resume [here](https://docs.google.com/document/d/1lLYrtC5efkKvc_LLMwTN7bY41i-5UycY/edit?usp=share_link&ouid=111641368003270006281&rtpof=true&sd=true)
 - :thought_balloon: Tips and suggestions are always welcome, feel free to contact me!
 
