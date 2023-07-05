@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Luiza and it's nice to have you around! <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" width="30px"></h1>   
  
-- :briefcase: I work as Full Stack Developer Intern at [PariPassu](https://www.linkedin.com/company/paripassubr)
+- :briefcase: I work as Full Stack Developer at [PariPassu](https://www.linkedin.com/company/paripassubr)
 - :open_book: I'm studying Technologist in System Analysis and Development at Estácio de Sá University
 - :woman_student: My graduation estimate date is December 2023   
 - :woman_technologist: I have experience and/or knowledge in:
