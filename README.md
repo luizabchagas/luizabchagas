@@ -1,11 +1,10 @@
 <h1 align="center">Hi there, I'm Luiza and it's nice to have you around! <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" width="30px"></h1>   
  
 - :briefcase: I work as Full Stack Developer at [PariPassu](https://www.linkedin.com/company/paripassubr)
-- :open_book: I'm studying Technologist in System Analysis and Development at Estácio de Sá University
-- :woman_student: My graduation estimate date is December 2023   
+- :woman_student: I have a Associate/Technical degree in Technologist in System Analysis and Development at Estácio de Sá University
 - :woman_technologist: I have experience and/or knowledge in:
 
-    - Front-end: HTML, CSS, JavaScript, TypeScript, AngularJS, ReactJS, React Native, Next.Js, Bootstrap, Material UI, Figma;
+    - Front-end: HTML, CSS, JavaScript, TypeScript, AngularJS, ReactJS, React Native, Bootstrap, Material UI, Figma;
     - Back-end: Node.js, Java, Spring Boot, jOOQ, WebLogic;
     - Database: SQL, mySQL, PostgreSQL, MongoDB;
     - Unit Testing: Karma, Jest, Jasmine, Mockito, JUnit;
@@ -17,7 +16,6 @@
 
 ## Experience with:
 <a href="https://angular.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="angular" width="35" height="35"/></a>
-<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-plain-wordmark.svg" alt="jasmine" width="35" height="35"/></a>
 <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/karma/karma-original.svg" alt="karma" width="35" height="35"/> </a>
 <a href="https://www.java.com/pt-BR/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="35" height="35"/></a>
 <a href="https://www.mysql.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="35" height="35"/></a>
