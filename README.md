@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm Luiza and it's nice to have you around! <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" width="30px"></h1>   
  
-- :briefcase: I work as Full Stack Developer at [PariPassu](https://www.linkedin.com/company/paripassubr)
+- :briefcase: I work as Mid-level Full Stack Developer at [Grupo Boticário](https://www.linkedin.com/company/grupo-boticario)
 - :woman_student: I have a Associate/Technical degree in Technologist in System Analysis and Development at Estácio de Sá University
+- :cloud: I am [AWS certified](https://www.credly.com/badges/4291f152-ba0a-475b-b271-3915adbaa027/linked_in_profile)
 - :woman_technologist: I have experience and/or knowledge in:
 
     - Front-end: HTML, CSS, JavaScript, TypeScript, AngularJS, ReactJS, React Native, Bootstrap, Material UI, Figma;
