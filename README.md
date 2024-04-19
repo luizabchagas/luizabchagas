@@ -26,13 +26,15 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactJS" width="35" height="35"/></a>
 <a href="https://angular.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="angular" width="35" height="35"/></a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="35" height="35"/></a>
+<a href="https://tailwindcss.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind css" width="35" height="35"/></a>
 <a href="https://karma-runner.github.io/latest/index.html" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/karma/karma-original.svg" alt="karma" width="35" height="35"/></a>
 <a href="https://jestjs.io/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="jest" width="35" height="35"/></a>
 <a href="https://www.figma.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="35" height="35"/></a>
 
-<a href="https://spring.io/projects/spring-boot/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring boot" width="35" height="35"/></a>
 <a href="https://www.mysql.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="35" height="35"/></a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="Postgresql" width="35" height="35"/></a>
+<a href="https://spring.io/projects/spring-boot/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring boot" width="35" height="35"/></a>
+<a href="https://junit.org/junit5/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" alt="JUnit" width="35" height="35"/></a>
 
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="35" height="35"></a>  
 
