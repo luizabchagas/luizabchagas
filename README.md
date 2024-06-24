@@ -6,7 +6,7 @@
 - :woman_technologist: I have experience and/or knowledge in:
 
     - Front-end: HTML, CSS, JavaScript, TypeScript, AngularJS, ReactJS, React Native, Bootstrap, Material UI, Figma;
-    - Back-end: Node.js, Java, Kotlin, Spring Boot, jOOQ, WebLogic;
+    - Back-end: Node.js, Java, Kotlin, Spring, jOOQ, WebLogic;
     - Database: SQL, mySQL, PostgreSQL, MongoDB;
     - Unit Testing: Karma, Jest, Jasmine, Mockito, JUnit;
     - Cloud: AWS;
