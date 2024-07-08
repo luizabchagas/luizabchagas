@@ -13,7 +13,7 @@
     - CI/CD: Jenkins, Azure DevOps;
     - Agile Methodologies: Scrum, Kanban
 
-- :thought_balloon: Tips and suggestions are always welcome, feel free to contact me!
+- :thought_balloon: Tips and suggestions are always welcome, feel free to contact me! :)
 
 ##
 
