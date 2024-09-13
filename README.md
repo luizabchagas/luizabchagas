@@ -5,13 +5,13 @@
 - :cloud: I am [AWS certified](https://www.credly.com/badges/4291f152-ba0a-475b-b271-3915adbaa027/linked_in_profile)
 - :woman_technologist: I have experience and/or knowledge in:
 
-    - Front-end: HTML, CSS, JavaScript, TypeScript, AngularJS, ReactJS, React Native, Bootstrap, Material UI, Figma;
-    - Back-end: Node.js, Java, Kotlin, Spring, jOOQ, WebLogic;
-    - Database: SQL, mySQL, PostgreSQL, MongoDB;
-    - Unit Testing: Karma, Jest, Jasmine, Mockito, JUnit;
+    - Front-end: JavaScript, TypeScript, AngularJS, ReactJS, React Native, Bootstrap, Material UI, Figma;
+    - Back-end: Java, Kotlin, Spring, jOOQ, Node.js, WebLogic;
+    - Database: SQL, PostgreSQL, mySQL, MongoDB;
+    - Unit Testing: Mockito, JUnit, Karma, Jest, Jasmine;
     - Cloud: AWS;
     - CI/CD: Jenkins, Azure DevOps;
-    - Agile Methodologies: Scrum, Kanban
+    - Agile Methodologies: Scrum, Kanban;
 
 - :thought_balloon: Tips and suggestions are always welcome, feel free to contact me! :) 
 
