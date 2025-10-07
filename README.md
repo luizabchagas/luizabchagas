@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Luiza and it's nice to have you around! <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" width="30px"></h1>   
  
-- :briefcase: I work as Mid-level Full Stack Developer at [Grupo Boticário](https://www.linkedin.com/company/grupo-boticario)
+- :briefcase: I work as Senior Software Engineer at [Grupo Boticário](https://www.linkedin.com/company/grupo-boticario)
 - :woman_student: I have an Associate/Technical degree in System Analysis and Development at Estácio de Sá University
 - :cloud: I am [AWS certified](https://www.credly.com/badges/4291f152-ba0a-475b-b271-3915adbaa027/linked_in_profile)
 - :woman_technologist: I have experience and/or knowledge in:
@@ -9,7 +9,7 @@
     - Back-end: Java, Kotlin, Node.js, Spring, Hibernate, jOOQ, WebLogic, FlyWay;
     - Database: PostgreSQL, MySQL, MongoDB;
     - Unit Testing: Karma, Jest, Jasmine, Mockito, JUnit, Spock Framework, Groovy;
-    - Cloud: AWS (RDS, API Gateway, Step Functions, Lambdas);
+    - Cloud: AWS (RDS, Redis, API Gateway, Step Functions, Lambdas) and GCP (BigQuery, Cloud Storage, Cloud Build);
     - Observability: New Relic, Rapid7;
     - CI/CD: GitHub Actions, Jenkins, Azure DevOps;
     - Agile Methodologies: Scrum, Kanban.
