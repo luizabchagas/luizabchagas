@@ -23,17 +23,17 @@
 <a href="https://www.java.com/pt-BR/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="35" height="35"/></a>
 <a href="https://kotlinlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin" width="35" height="35"/></a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img alt="HTML5-icon" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img alt="CSS3-icon" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img alt="HTML5-icon" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img alt="CSS3-icon" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactJS" width="35" height="35"/></a>
 <a href="https://angular.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="angular" width="35" height="35"/></a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="35" height="35"/></a>
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind css" width="35" height="35"/></a>
-<a href="https://karma-runner.github.io/latest/index.html" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/karma/karma-original.svg" alt="karma" width="35" height="35"/></a>
+<a href="https://karma-runner.github.io/latest/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/karma/karma-original.svg" alt="karma" width="35" height="35"/></a>
 <a href="https://jestjs.io/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="jest" width="35" height="35"/></a>
-<a href="https://www.figma.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="35" height="35"/></a>
+<a href="https://www.figma.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="35" height="35"/></a>
 
-<a href="https://www.mysql.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="35" height="35"/></a>
+<a href="https://www.mysql.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="35" height="35"/></a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="Postgresql" width="35" height="35"/></a>
 <a href="https://spring.io/projects/spring-boot/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring boot" width="35" height="35"/></a>
 <a href="https://junit.org/junit5/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" alt="JUnit" width="35" height="35"/></a>
@@ -45,8 +45,8 @@
 
 ## Tools:
 <a href="https://www.jetbrains.com/pt-br/idea/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ" width="35" height="35"/></a>
-<a href="https://code.visualstudio.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="35" height="35"/></a> 
-<a href="https://about.gitlab.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="35" height="35"/></a>
+<a href="https://code.visualstudio.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="35" height="35"/></a> 
+<a href="https://about.gitlab.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="35" height="35"/></a>
 <a href="https://bitbucket.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="35" height="35"/></a>
 <a href="https://www.postman.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="35" height="35"/></a>
 <a href="https://dbeaver.io/download/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" alt="Dbeaver" width="35" height="35"/></a>
