@@ -6,6 +6,7 @@
 - :woman_technologist: I have experience and/or knowledge in:
 
     - Back-end: Java, Kotlin, Node.js, Spring, Hibernate, jOOQ, WebLogic, FlyWay;
+    - Messaging: Apache Kafka, AWS SQS, AWS SNS
     - Database: PostgreSQL, MySQL, MongoDB;
     - Unit Testing: Mockito, JUnit, Spock Framework, Groovy, Karma, Jest, Jasmine;
     - Cloud: AWS (RDS, Redis, API Gateway, Step Functions, Lambdas) and GCP (BigQuery, Cloud Storage, Cloud Build);
