@@ -45,9 +45,11 @@
  
 ## Tools:
 <p>
+<a href="https://www.jetbrains.com/pt-br/idea/" target="_blank"> <img src="https://commons.wikimedia.org/wiki/File:IntelliJ_IDEA_Icon.svg" alt="IntelliJ" width="35" height="35"/></a> 
 <a href="https://claude.ai/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="Claude" width="35" height="35"/></a>
 <a href="https://cursor.com/pt-BR/home" target="_blank"> <img src="https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/brand/brand-logo-8.svg" alt="Cursor" width="35" height="35"/></a> 
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="35" height="35"/></a> 
+ <a href="https://github.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="GitHub" width="35" height="35"/></a>
 <a href="https://about.gitlab.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="35" height="35"/></a>
 <a href="https://bitbucket.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="35" height="35"/></a>
 <a href="https://www.postman.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="35" height="35"/></a>
