@@ -45,7 +45,7 @@
  
 ## Tools:
 <p>
-<a href="https://www.jetbrains.com/pt-br/idea/" target="_blank"> <img src="https://commons.wikimedia.org/wiki/File:IntelliJ_IDEA_Icon.svg" alt="IntelliJ" width="35" height="35"/></a> 
+<a href="https://www.jetbrains.com/pt-br/idea/" target="_blank"> <img src="https://www.svgrepo.com/show/353906/intellij-idea.svg" alt="IntelliJ" width="35" height="35"/></a> 
 <a href="https://claude.ai/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="Claude" width="35" height="35"/></a>
 <a href="https://cursor.com/pt-BR/home" target="_blank"> <img src="https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/brand/brand-logo-8.svg" alt="Cursor" width="35" height="35"/></a> 
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="35" height="35"/></a> 
