@@ -5,14 +5,14 @@
 - :cloud: I am [AWS certified](https://www.credly.com/badges/4291f152-ba0a-475b-b271-3915adbaa027/linked_in_profile)
 - :woman_technologist: I have experience and/or knowledge in:
 
-    - Back-end: Java, Kotlin, Node.js, Spring, Hibernate, jOOQ, WebLogic, FlyWay;
+    - Backend: Kotlin, Java, Spring (Boot, Data, Security), Hibernate, jOOQ
     - Messaging: Apache Kafka, AWS SQS, AWS SNS
-    - Database: PostgreSQL, MySQL, MongoDB;
-    - Unit Testing: Mockito, JUnit, Spock Framework, Groovy, Karma, Jest, Jasmine;
-    - Cloud: AWS (RDS, Redis, API Gateway, Step Functions, Lambdas) and GCP (BigQuery, Cloud Storage, Cloud Build);
-    - Observability: New Relic, Rapid7;
-    - CI/CD: GitHub Actions, Jenkins, Azure DevOps;
-    - Front-end: ReactJS, TypeScript, HTML, CSS, JavaScript, AngularJS, Tailwind CSS, Bootstrap, Material UI, Figma;
+    - Databases: PostgreSQL, Redis, MySQL, BigQuery
+    - Cloud: AWS (RDS, S3, Lambda, Step Functions, Glue), GCP (BigQuery, Cloud Storage, Cloud Build)
+    - Containers & orchestration: Docker, Kubernetes (EKS)
+    - DevOps & CI/CD: GitHub Actions, Jenkins, ArgoCD
+    - Observability: New Relic, CloudWatch
+    - Testing: JUnit, Mockito
     - Agile Methodologies: Scrum, Kanban.
 
 - :thought_balloon: Tips and suggestions are always welcome, feel free to contact me! :) 
