@@ -35,6 +35,7 @@
 
 <p>
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="35" height="35"></a>  
+<a href="https://cloud.google.com/free?utm_source=google&utm_medium=cpc&utm_campaign=latam-BR-all-pt-dr-BKWS-all-all-trial-e-dr-1710136-LUAC0010101&utm_content=text-ad-none-any-DEV_c-CRE_788573265540-ADGP_Hybrid+%7C+BKWS+-+EXA+%7C+txt+-+Generic+Cloud-Cloud+Generic-GCP-BR-KWID_155951229-kwd-155951229&utm_term=KW_gcp-ST_GCP&gclsrc=aw.ds&gad_source=1&gad_campaignid=23374717633&gclid=CjwKCAjwhZDUBhBGEiwAbi5bjvDItvhKVzXABSlFiuVCLUlxdTeiPtDnlMdBzbH-oPa05Mh818THthoCcpUQAvD_BwE" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="GCP" width="35" height="35"></a>  
 </p>
 
 <p>
